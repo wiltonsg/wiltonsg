@@ -1,6 +1,6 @@
-![Header image](https://raw.githubusercontent.com/jayrajroshan/jayrajroshan/master/Assets/capa.jpg)
+![Header image](https://github.com/wiltonsg/wiltonsg/Assets/capa.jpg)
 
-I'm a tech enthusiast who loves to learn about new things. Connect with me on LinkedIn.
+Tenho formação em Licenciatura e Bacharelado em Ciências Biológicas pela Unijorge, Curso profissionalizante de Desenvolvimento Web pelo Instituto Federal do Rio Grande do Sul - IFRS e Cursando Análise e Desenvolvimento de Sistemas pela Unifacs.
 
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
