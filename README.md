@@ -11,11 +11,9 @@
 
 ### Olá! Bem vindos :)
 
-<<<<<<< HEAD
-Meu nome é Wilton, sou formado em Ciências Biológicas pela Unijorge, possuo curso profissionalizante em Programação Web pelo Instituto Federal do Rio Grande do Sul (IFRS) e Cursando Análise e Desenvolvimento de Sistemas pela Unifacs.
-=======
+
 Me chamo Wilton, tenho formação em Ciências Biológicas pela Unijorge, Profissionalizante em Programação Web pelo Instituto Federal do Rio Grande do Sul (IFRS) e Cursando Análise e Desenvolvimento de Sistemas pela Unifacs.
->>>>>>> 8ac1833d6943b63bff631887ad713ae80bdd6c91
+
 
 <!--
 **wiltonsg/wiltonsg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
